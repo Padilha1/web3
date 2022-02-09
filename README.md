@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# WEB 3 Application
+But now I`m with Error with Import OpenZeppelin on the Solidity doc
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
